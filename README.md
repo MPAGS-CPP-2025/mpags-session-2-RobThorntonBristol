@@ -7,3 +7,5 @@ This project is for session 2 of the C++ MPAGs course.
 ## How to Install
 
 ## Authors
+
+## Documentation
